@@ -11,7 +11,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/Arnando456/Elaina2
+> git clone https://github.com/abay63/bottermuxV6
 ```
 
 ## Install the dependencies:
@@ -19,20 +19,10 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd Elaina1
+> cd bottermuxV6
 > bash install.sh
 ```
 
 ### Usage
 ```bash
 > npm start
-```
-
-
-
-## whatsapp number
-* [`WhatsApp`](wa.me/6281534162316)
-### Donate
-* [`Saweria`](https://saweria.co/mrg108p)
-* [`Dana : +6281534162316`]
-* [`Pulsa : +6281534162316`]
