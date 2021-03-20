@@ -1,7 +1,7 @@
 {
-  "name": "XBOT",
+  "name": "BOT",
   "version": "1.0.0",
-  "description": "Xbot for whatsapp online with termux",
+  "description": "bot for whatsapp online with termux",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -14,15 +14,15 @@
   "keywords": [
     "k"
   ],
-  "author": "Arnando",
+  "author": "Abay",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Arnando456/Elaina2.git"
+    "url": "git+https://github.com/abay63/bottermuxV6.git"
   },
   "bugs": {
-    "url": "https://github.com/Arnando456/Elaina2/issues"
+    "url": "https://github.com/abay63/bottermuxV6/issues"
   },
-"homepage": "https://github.com/Arnando456/Elaina2/readme",
+"homepage": "https://github.com/abay63/bottermuxV6/readme",
 "license": "ISC",
 "dependencies": {
     "@adiwajshing/baileys": "^3.3.0",
