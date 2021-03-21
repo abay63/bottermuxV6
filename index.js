@@ -2898,7 +2898,7 @@ shiz = `┌──「 *abaybot* 」
 ║▬▭▬▭▬[ *THX TO* ]▬▭▬▭▬▭
 ║╭────────────────────
 ║│【✿͜͡➪ *ALLAH SWT*
-║│【✿͜͡➪ *NAYLA CHAN*
+║║【✿͜͡➪ *ABAY*
 ║│【✿͜͡➪ *RIZZ*
 ║│【✿͜͡➪ *RAMLAN ID*
 ║│【✿͜͡➪ *AMPIBI*
