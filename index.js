@@ -2665,7 +2665,7 @@ break
 logo = fs.readFileSync(`./assets/pkg.jpg`)
 				    const uangku = checkATMuser(sender)
 shiz = `┌──「 *abaybot* 」
-├║│【✿͜͡➪ Nama : ${pushname}*
+├║【✿͜͡➪ Nama : ${pushname}*
 ║│【✿͜͡➪ *Premium :* ${premi}*
 ║│【✿͜͡➪ *Nomer : wa.me/${sender.split("@")[0]}*
 ║│【✿͜͡➪ *Uang mu : Rp${uangku}*
